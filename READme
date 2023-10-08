@@ -1,0 +1,54 @@
+# Hydro App - Stay Hydrated with Notifications
+
+!Hydo App
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Why Hydration Matters](#why-hydration-matters)
+- [Implementation](#implementation)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Welcome to Hydro App, your hydration companion! This React Native app is designed to remind you to stay hydrated throughout the day using background notifications and a convenient stop notification function.
+
+## Features
+
+- **Background Notifications:** Hydro App sends you timely hydration reminders even when the app is not actively running, ensuring you never miss a sip of water.
+
+- **Stop Notification Function:** Don't want a notification right now? No problem! Easily stop notifications temporarily with a single tap.
+
+## Why Hydration Matters
+
+Proper hydration is essential for your health and well-being. Dehydration can lead to various health issues, including headaches, fatigue, and poor concentration. Hydro App is here to help you maintain optimal hydration levels effortlessly.
+
+## Implementation
+
+Hydro App leverages the power of React Native and Expo Push Notifications to provide you with seamless background notifications. Here's how it works:
+
+1. **Expo Push Notifications:** We've integrated Expo's notification system to ensure reliable delivery of hydration reminders, even when the app is running in the background.
+
+2. **Custom Stop Notification Function:** To give you control over notifications, we've added a user-friendly stop notification function within the app. Just tap the "Pause" button to temporarily halt reminders.
+
+3. **Scheduled Reminders:** Hydro App schedules notifications at regular intervals throughout the day, personalized to your hydration needs.
+
+## Getting Started
+
+To get started with Hydro App, follow these steps:
+
+1. **Installation:** Download and install Hydro App apk from https://drive.google.com/file/d/16TmdYFj3tYAopr8RNS3rtgqfozV__P7B/view?usp=sharing.
+
+2. **Open the App:** Launch the app and set up your hydration goals and preferences.
+
+3. **Stay Hydrated:** Let Hydro App do the rest. Receive timely notifications and track your daily water intake.
+
+## Contributing
+
+We welcome contributions from the community to make Hydro App even better. If you have ideas for improvements or want to report issues, please feel free to [open an issue](link_to_github_issues) or submit a [pull request](link_to_github_pull_requests). We appreciate your help in promoting better hydration for all!
+
+## License
+
+Hydro App is licensed under the You are free to use, modify, and distribute the app according to the terms of this license.
