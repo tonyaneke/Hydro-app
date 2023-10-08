@@ -89,6 +89,7 @@ export default function App() {
       },
     });
     setNotificationId(identifier);
+    Alert.alert("Reminder has been set!!");
   };
   const onStop = async () => {
     await Notifications.cancelScheduledNotificationAsync(notificationId);
