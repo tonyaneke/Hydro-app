@@ -84,7 +84,7 @@ export default function App() {
         body: "Staying hydrated supports cardiovascular health by helping maintain adequate blood volume and circulation.",
       },
       trigger: {
-        seconds: 60 * 1,
+        seconds: 60 * 20,
         repeats: true,
       },
     });
